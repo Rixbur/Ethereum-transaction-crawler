@@ -1,2 +1,4 @@
 # Ethereum-transaction-crawler
-dApp for Task that I had for an interview
+Inspect and list all transactions for an account address from ethereum network
+
+
